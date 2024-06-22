@@ -1,5 +1,5 @@
 # About Ansible...!
-How to establish connection between Master and Servers
+* How to establish connection between Master and Servers
 How to Login to servers through master
 How to check memory usage and disk usage
 How to check uptime of servers
