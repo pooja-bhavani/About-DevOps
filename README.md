@@ -1,4 +1,4 @@
-# Introduction to DevOps
+# Introduction to DevOps🚀
 DevOps combines software development (Dev) and IT operations (Ops) with the goal of shortening the systems devlopment lifecycle and delivering high-quality software continuously.
 
 The key concepts of DevOps:
@@ -73,6 +73,12 @@ ubuntu@ip-172-31-2-75:~/dir3$ git pull
 ```
  ubuntu@ip-172-31-2-75:~/dir3$ git show
  ```
+
+
+Ansible: Established connection between master and managed servers 
+checked memory usage
+Disk space and server uptime. 🚀
+![image](https://github.com/user-attachments/assets/6d21409f-5f3a-4a29-92ca-93ab7c9123be)
 
 
 
