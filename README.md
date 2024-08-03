@@ -75,7 +75,7 @@ ubuntu@ip-172-31-2-75:~/dir3$ git pull
  ```
 
 
-Ansible: Established connection between master and managed servers 
+# Ansible: Established connection between master and managed servers 
 checked memory usage
 Disk space and server uptime. 🚀
 ![image](https://github.com/user-attachments/assets/6d21409f-5f3a-4a29-92ca-93ab7c9123be)
