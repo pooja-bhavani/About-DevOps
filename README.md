@@ -1,4 +1,4 @@
-# Introduction to DevOps🚀
+# Introduction to DevOps 🚀
 DevOps combines software development (Dev) and IT operations (Ops) with the goal of shortening the systems devlopment lifecycle and delivering high-quality software continuously.
 
 The key concepts of DevOps:
